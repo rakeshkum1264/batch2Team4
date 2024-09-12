@@ -1,0 +1,152 @@
+.txt1 p {
+  font-size: 45px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.txt1 {
+  margin-top: 180px;
+}
+
+.btn1 button {
+  background-color: orange;
+}
+
+.btn1 {
+  margin-top: 60px;
+}
+
+/* .txt2 p{
+    font-size: 50px;
+} */
+.colors button {
+  border-radius: 50%;
+  padding: 17px;
+  margin: 8px;
+  border: none;
+}
+
+.colors input {
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding-left: 10px;
+}
+
+.btn-btn-danger {
+  background-color: orange;
+}
+
+.txt3 h1 {
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.txt3 button {
+  height: 50px;
+  width: 150px;
+  margin-top: 40px;
+  background-color: orange;
+  border-radius: 20px;
+  border: none;
+}
+
+.txt3 h5 {
+  margin-top: 70px;
+  color: red;
+}
+
+.txt4 h1 {
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 150px;
+}
+
+.txt4 hr {
+  margin-top: 170px;
+}
+
+.btn8 button {
+  border-radius: 50px;
+  background-color: bisque;
+  color: red;
+  height: 60px;
+  width: 60px;
+  font-size: 30px;
+  border: none;
+}
+
+.design {
+  margin-top: 80px;
+}
+
+.botn {
+  margin-top: 120px;
+}
+
+.botn button {
+  background-color: orange;
+  border:none;
+}
+
+.txt10 h1 {
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.clr {
+  background-color: blanchedalmond;
+}
+
+.bgcolor {
+  background-color: blanchedalmond;
+}
+
+.checked {
+  color: orangered;
+}
+.SEE button{
+  background-color:darkorange;
+  border:none;
+}
+.txt5 h1 {
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 150px;
+}
+.login{
+  /* background-color:grey; */
+  margin-top: 70px;
+  color: white;
+}
+.placed{
+  background-color: grey;
+}
+.logo1 button{
+  border-radius: 50px;
+  background-color:black;
+  color: white;
+  height: 60px;
+  width: 60px;
+  font-size: 30px;
+  border: none; 
+}
+.colors button:hover {
+  background-color: white;
+  color: orangered;
+  border:solid black;
+}
+.colors input:hover {
+  background-color: orangered;
+}
+.Sub button:hover {
+background-color: white;
+color: black;
+border:solid orangered;
+}
+.txt3 button:hover {
+  background-color: white;
+  color: black;
+  border: solid orangered;
+}

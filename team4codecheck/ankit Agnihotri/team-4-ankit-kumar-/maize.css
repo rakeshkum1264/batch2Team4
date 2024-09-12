@@ -1,0 +1,100 @@
+.button-xy{
+    background-color: rgb(241, 152, 152);
+    width: 200px;
+    border-radius: 20px;
+    padding: 8px;
+
+}
+.boxx-1{
+    background-color: rgb(179, 120, 114);
+
+    
+}
+.boxx-2{
+    background-color:#F9EFE5;
+}
+.boxx-3{
+    background-color: white;
+}
+.boxx-6{
+    background-color: aliceblue;
+}
+.pabb{
+    background-color: sandybrown;border-radius: 10px;padding: 10px;
+}
+.pabb:hover{
+    background-color: white;
+    color: rgb(0, 0, 0);
+    border: 1px solid sandybrown;
+    transition-duration: 2s;
+    transition-timing-function: steps(5);
+}
+.crtt:hover{
+    background-color: white;
+    color: rgb(20, 9, 9);
+    border: 1px solid sandybrown ;
+    transition-duration: 2s;
+    transition-timing-function: steps(5);
+}
+.crtt{
+    background-color: sandybrown;border-radius: 10px;padding: 20px;width: 150px;
+
+}
+.tamtam{
+    background-color:sandybrown;padding: 10px;
+}
+.tamtam :hover{
+    background-color: white;
+    color: rgb(20, 9, 9);
+    border: 1px solid sandybrown ;
+    transition-duration: 2s;
+    transition-timing-function: steps(5);
+
+}
+.comptt{
+    background-color: sandybrown;border-radius: 10px;padding: 20px;width: 150px;
+
+}
+.comptt :hover{
+    background-color: white;
+    color: rgb(20, 9, 9);
+    border: 1px solid sandybrown;
+    transition-duration: 2s;
+    transition-timing-function: steps(5);
+
+}
+.druuuu{
+    background-color: salmon; padding: 20px; color: white;
+}
+.druuuu :hover{
+    background-color: white;
+    color: rgb(20, 9, 9);
+    border: 1px solid sandybrown;
+    
+}
+.butxzy{
+    width: 50px;
+    
+}
+.sapna{
+    width: 20px;
+}
+.apple{
+    width: 5px;
+}
+.boll{
+    width: 20px;
+}
+.cat{
+    width: 20px;
+}
+.butt-x{
+    width: 20px;
+
+}
+.tsss{
+    width: 20px;
+}
+.zzzz{
+    width: 20px;
+}

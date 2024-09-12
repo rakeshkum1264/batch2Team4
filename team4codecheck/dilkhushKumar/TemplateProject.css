@@ -1,0 +1,265 @@
+
+.text1{
+    /* padding-top: 180px; */
+    margin-top: 300px;
+    
+}
+.text1 h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.text1 p {
+    margin-top: 30px;
+    font-weight: 600;
+}
+
+.text1 button {
+    background-color: #E56639;
+    height: 70px;
+    width: 300px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-top: 50px;
+    color: azure;
+    
+
+}
+.secondpart{
+    background-color: #F9EFE5;
+}
+
+
+.buttoncolor{
+    text-align: center;
+    padding-top: 20px;
+    
+}
+.color1{
+
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+    background-color:#540B0C ;
+}
+.color2{
+
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+    background-color:#228B22 ;
+
+}
+.color3{
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+    background-color:#191970 ;
+
+}
+
+.s{
+    font-size: 30px;
+    font-weight: bold;
+    color: #191970;
+    margin-top: 30px;
+    height: 60px;
+    width: 70px;
+    border-radius: 10px;
+    border: 2px solid;
+}
+.m{
+    font-size: 30px;
+    font-weight: bold;
+    color: #D17B41;
+    height: 60px;
+    width: 70px; 
+    border-radius: 10px;
+    border: 2px solid;
+
+}
+.l{
+    font-size: 30px;
+    font-weight: bold;
+   color: #228B22;
+    height: 60px;
+    width: 70px; 
+    border-radius: 10px; 
+    border: 2px solid;
+
+}
+.xl{
+    font-size: 30px;
+    font-weight: bold;
+    color: #540B0C;
+    height: 60px;
+    width: 70px; 
+    border-radius: 10px;
+    border: 2px solid;
+
+}
+
+.color4{
+
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+    background-color:#191970 ;
+}
+.color5{
+
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+    background-color:#D58421 ;
+
+}
+.color6{
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+    background-color:#5E2F26 ;
+
+}
+
+.color7{
+
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+    background-color:#DA9100 ;
+}
+.color8{
+
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+    background-color:#D4844B ;
+
+}
+.color9{
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+    background-color:#D17B41 ;
+
+}
+
+.color10{
+
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+    background-color:#353935;
+}
+.color11{
+
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+    background-color:-#708090 ;
+
+}
+.color12{
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+    background-color:#000080 ;
+
+}
+.card{
+    border-radius: 50px;
+    margin-bottom: 80px;
+}
+.thirdpart{
+    background-color: #666666;
+}
+.btncart {
+    justify-content: center;
+    height: 70px;
+    width: 200px;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #E56639;
+    color: white;
+}
+
+.colors1{
+text-align: center;
+
+}
+
+.colors1 button {
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+   border: none;
+
+ 
+}
+.colors1 input{
+   height: 50px;
+   width: 60px;
+   font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+
+}
+
+.design button {
+    border-radius: 50px;
+    background-color: bisque;
+    color: red;
+    height: 60px;
+    width: 60px;
+    font-size: 30px;
+    border: none;
+}
+
+.nwcd {
+    background-color: #f9efe5;
+}
+
+.badlyadv button:hover {
+    border: none;
+    border: 2px solid rgb(0, 225, 246);
+    border-radius: 30px;
+    background-color: white;
+    color: rgb(204, 0, 0);
+    /* background-color: rgb(29, 142, 241); */
+}
+.badlyadv button{
+    background-color: rgb(249, 69, 69);
+    border-radius: 25px;
+    
+}
+.vbydv{
+    color: white;
+    background-color: rgb(97, 97, 97);
+
+}
+
+.logo1 button{
+    border-radius: 50px;
+    background-color:rgb(74, 17, 17);
+    color: white;
+    height: 60px;
+    width: 60px;
+    font-size: 30px;
+    border: none;
+   margin: 5px;
+}
+.Sub button:hover{
+    background-color: white;
+    color: rgb(255, 255, 255);
+    border:solid rgb(23, 6, 0);
+    }
+    .firstcrd{
+        border-radius: 25px;
+    }
+
+
+
+

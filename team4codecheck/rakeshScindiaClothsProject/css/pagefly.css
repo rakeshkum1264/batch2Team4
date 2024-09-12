@@ -1,0 +1,124 @@
+.Mybutton button{
+    box-shadow: 20px 20px 60px rgb(185, 24, 24);
+    font-size: 20px;
+    border-radius: 20px;
+    margin-top: 30px;
+    background-color: rgb(227, 104, 34);
+    color: white;
+    border: none;
+}
+.pick-color input{
+height: 30px;
+width: 30px;
+border-radius: 50%;
+border: none;
+
+margin-right: 8px;
+}
+.pick-color button{
+    padding: 10px;
+    margin-right: 8px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.checked{
+    color:#FFB800;
+}
+
+.Mybutton button:hover{
+    
+    filter: drop-shadow(1px 1px 20px rgb(146, 146, 28));
+    background-color: rgb(135, 135, 10);
+    color: black;
+    
+}
+.Mybutton p{
+    margin-top: 20px;
+}
+/* 
+.Mydiv{
+    position: fixed;
+    top: -60px;
+    left: 80px;
+    transform: rotate(45deg); 
+    height: 700px;
+    width: 700px;
+    border-radius: 30px;
+    background-color: teal;
+    z-index: -2;
+} */
+.ButtonStyle button{
+    background-color: #E56639;
+    border: none;
+}
+.FontStyle i{
+    margin: 10px;
+    color: rgb(255, 255, 255);
+    padding:10px;
+    border-radius: 50%;
+    background-color: #3B3026;
+
+}
+.ButtonStyle button:hover{
+    background-color: transparent;
+    color: #E56639;
+    border: 2px solid #E56639;
+
+}
+
+@media (min-width: 340px) and (max-width: 767px) { 
+
+.Mybutton{
+    text-align: center;
+}
+.Mybutton h1{
+    
+    font-size: 34px;
+    
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+}
+/*
+@media (min-width: 768px) and (max-width: 1023px) { ... } */ 
+
+ @media (min-width: 1024px) and (max-width: 1600px) { 
+
+
+.Mybutton h1{
+    
+    font-size: 60px;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+ }
+
+    .Mybutton{
+
+        color: rgb(0, 0, 0);
+    }
+    .Mybutton1 button:hover{
+        background-color: transparent;
+        color: #E56639;
+        border: 2px solid #E56639;
+    
+    }
+    .icon{
+        margin: 10px;
+        color:#E56639;
+        padding:10px;
+        border-radius: 50%;
+        background-color:#F9EFE5;
+    
+    }
+    .Mybutton2 button:hover{
+        background-color: transparent;
+        color: #E56639;
+        border: 2px solid #E56639;
+    
+    }
+    
+    
